@@ -1,7 +1,7 @@
 baseURL = 'https://example.org'
 languageCode = 'en-us'
 title = 'My Molecular Biology Blog'
-theme = 'hugo-PaperMod'
+theme = ''
 
 [params]
     defaultTheme = "dark"
